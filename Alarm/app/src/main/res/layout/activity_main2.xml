@@ -1,0 +1,17 @@
+<activity android:name=".AlarmManagerActivity"
+    android:launchMode="singleTop"
+    android:screenOrientation="portrait"
+    android:windowSoftInputMode="adjustPan"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
+<service
+android:name=".service.AlarmService"
+android:enabled="true"
+android:exported="false" />
+
+<activity android:name=".ReceiverAlarmTaskActivity">
+<intent-filter>
+    <action android:name="activity_alarm_action" />
+    <category android:name="android.intent.category.DEFAULT" />
+</intent-filter>
+</activity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CitySunsetTime.iml" filepath="$PROJECT_DIR$/.idea/modules/CitySunsetTime.iml" group="CitySunsetTime" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CitySunsetTime-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CitySunsetTime-app.iml" group="CitySunsetTime/app" />
+      <module fileurl="file://$PROJECT_DIR$/Services.iml" filepath="$PROJECT_DIR$/Services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

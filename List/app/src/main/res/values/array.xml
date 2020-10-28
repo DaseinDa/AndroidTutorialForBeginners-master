@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rate1">
+        <item>美元>>6.71</item>
+        <item>港币>>0.8</item>
+        <item>欧元>>11</item>
+        <item>英镑>>8.66</item>
+        <item>日元>>0.063</item>
+        <item>法郎>>6.66</item>
+
+    </string-array>
+
+
+<string-array name="rate2">
+    <item>美元>>6.71</item>
+    <item>港币>>0.8</item>
+    <item>欧元>>11</item>
+    <item>英镑>>8.66</item>
+    <item>日元>>0.063</item>
+    <item>法郎>>6.66</item>
+
+</string-array>
+</resources>

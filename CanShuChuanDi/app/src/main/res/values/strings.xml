@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CanShuChuanDi</string>
+    <string name="title">获取标准体重</string>
+    <string name="sex">性别</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="height">身高</string>
+    <string name="calculate">计算</string>
+
+
+
+
+
+</resources>

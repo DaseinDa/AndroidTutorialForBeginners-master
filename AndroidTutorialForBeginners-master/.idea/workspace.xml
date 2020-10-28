@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88f13054-43b7-46c0-aba6-795321f2b120" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_26" />
+  <component name="ProjectId" id="1hfARXC4JYURw37ZEi0j0jIQai9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Alaram App" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" nameIsGenerated="true">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88f13054-43b7-46c0-aba6-795321f2b120" name="Default Changelist" comment="" />
+      <created>1600391764554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600391764554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Notifications" timestamp="1600394252097">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1600394252097" />
+    <state x="667" y="196" width="642" height="712" key="#Unnamed" timestamp="1600393443252">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="667" y="196" width="642" height="712" key="#Unnamed/67.27.1853.1053@67.27.1853.1053" timestamp="1600393443252" />
+    <state x="451" y="210" width="1084" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600392183491">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" width="1084" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600392183491" />
+    <state x="729" y="390" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1600393351921">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="729" y="390" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600393351921" />
+    <state x="828" y="369" width="345" height="603" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1600392718318">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="828" y="369" width="345" height="603" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600392718317" />
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600391820434">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600391820434" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600394263111">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600394263111" />
+    <state x="441" y="84" width="1024" height="845" key="SettingsEditor" timestamp="1600392984602">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="441" y="84" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1600392984602" />
+    <state x="411" y="379" width="1190" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600392802879">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="411" y="379" width="1190" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600392802879" />
+    <state x="662" y="498" key="com.intellij.ide.util.TipDialog" timestamp="1600393119388">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="662" y="498" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600393119388" />
+  </component>
+</project>
